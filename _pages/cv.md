@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Kayla Casey
-
 ## Education
 
 **University of North Carolina at Chapel Hill** – Chapel Hill, NC  
@@ -48,8 +46,9 @@ August 2021 - January 2022
 **UNC Chapel Hill** – Chapel Hill, NC  
 Independent Study, Cryptography  
 December 2025 - May 2025  
-- Conducting research under Dr. Saba Eskandarian on advanced cryptographic protocols.  
-- Research topic: Private communication design for an abuse reporting mechanism that allows for banning users whose content has been frequently reported, while maintaining confidentiality of reported content and secrecy of banned individuals.  
+- Conducting research under Dr. Saba Eskandarian on advanced cryptographic protocols for abuse reporting mechanisms in privacy preserving systems.  
+
+
 
 ## Teaching Experience
 
